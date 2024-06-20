@@ -1,2 +1,7 @@
-# HealthLens-Diabetes-Prediction-Visualisation
-Based on Python and Machine Learning. Algorithm which is used is Random Forest Classifier.  
+# diabetes_prediction
+Preview of the Project
+
+![](images/1.PNG)
+![](images/2.PNG)
+![](images/3.PNG)
+![](images/4.PNG)
